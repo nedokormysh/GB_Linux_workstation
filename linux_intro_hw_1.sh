@@ -1,0 +1,1 @@
+Linux nedokormysh-VirtualBox 5.4.0-100-generic #113-Ubuntu SMP Thu Feb 3 18:43:29 UTC 2022 x86_64 x86_64 x86_64 GNU/Linux
